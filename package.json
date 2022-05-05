@@ -25,6 +25,8 @@
     "pixi.js": "^6.3.0"
   },
   "devDependencies": {
+    "sass": "^1.49.9",
+    "docusaurus-plugin-sass": "^0.2.2",
     "@avo/monorepo": "github:avodaq-dev/monorepo",
     "@docusaurus/eslint-plugin": "^2.0.0-beta.19",
     "@docusaurus/module-type-aliases": "2.0.0-beta.19",
